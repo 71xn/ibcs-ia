@@ -9,6 +9,19 @@
 
 ### [Back-End Code]()
 
+## Tech Stack
+
+### Frontend
+
+- React.js - UI
+- Redux - Global State Management
+- Material UI - User Interface Components
+
+### Backend
+
+- Python Flask API - Calculations + Data Processing - Hosted on Heroku
+- Google Firebase - Authentication and User Data Storage
+
 ## License
 
 This project is distributed under the [MIT License](https://github.com/71xn/ibcs-internal-assessment/blob/main/LICENSE), plagiarism of any kind is not permitted.

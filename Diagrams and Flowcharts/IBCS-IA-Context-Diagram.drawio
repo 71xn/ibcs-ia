@@ -1,1 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2021-10-11T19:27:31.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" version="15.5.1" etag="sxyN3Z95_Vw6aGmyGSir" type="github"><diagram id="8oLsJDBEnBq9W4ekTpQN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-11T19:42:36.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="oGinKcTlJpoKpdjAnr01" version="15.5.1" type="github">
+  <diagram id="8oLsJDBEnBq9W4ekTpQN" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q1MHRGC9YV3HJqHp84CS-1" value="IBCS Internal Assessment - Context Diagram - Finn Lestrange" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="770" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q1MHRGC9YV3HJqHp84CS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q1MHRGC9YV3HJqHp84CS-2" target="q1MHRGC9YV3HJqHp84CS-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="346" />
+              <mxPoint x="570" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1MHRGC9YV3HJqHp84CS-17" value="Alerts and updates on plants&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1MHRGC9YV3HJqHp84CS-6">
+          <mxGeometry x="0.4662" y="1" relative="1" as="geometry">
+            <mxPoint x="27" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1MHRGC9YV3HJqHp84CS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q1MHRGC9YV3HJqHp84CS-2" target="q1MHRGC9YV3HJqHp84CS-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="346" />
+              <mxPoint x="600" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1MHRGC9YV3HJqHp84CS-26" value="If valid user, load plants stored in&lt;br&gt;their digital greenhouse" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1MHRGC9YV3HJqHp84CS-7">
+          <mxGeometry x="0.0161" y="-3" relative="1" as="geometry">
+            <mxPoint x="43" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1MHRGC9YV3HJqHp84CS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q1MHRGC9YV3HJqHp84CS-2" target="q1MHRGC9YV3HJqHp84CS-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="653" y="430" />
+              <mxPoint x="870" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1MHRGC9YV3HJqHp84CS-18" value="Image uploaded by user is submitted" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1MHRGC9YV3HJqHp84CS-13">
+          <mxGeometry x="-0.3469" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1MHRGC9YV3HJqHp84CS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q1MHRGC9YV3HJqHp84CS-2" target="q1MHRGC9YV3HJqHp84CS-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="517" y="430" />
+              <mxPoint x="300" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1MHRGC9YV3HJqHp84CS-24" value="Login / registration details of user" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1MHRGC9YV3HJqHp84CS-14">
+          <mxGeometry x="-0.3294" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1MHRGC9YV3HJqHp84CS-2" value="Digital Greenhouse" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="517" y="346" width="136" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="q1MHRGC9YV3HJqHp84CS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q1MHRGC9YV3HJqHp84CS-3" target="q1MHRGC9YV3HJqHp84CS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q1MHRGC9YV3HJqHp84CS-16" value="Login details / plant information / images" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1MHRGC9YV3HJqHp84CS-5">
+          <mxGeometry x="0.044" y="2" relative="1" as="geometry">
+            <mxPoint x="46" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1MHRGC9YV3HJqHp84CS-3" value="User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q1MHRGC9YV3HJqHp84CS-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.419;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q1MHRGC9YV3HJqHp84CS-4" target="q1MHRGC9YV3HJqHp84CS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q1MHRGC9YV3HJqHp84CS-28" value="Send data about stored plants" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1MHRGC9YV3HJqHp84CS-27">
+          <mxGeometry x="0.0364" y="3" relative="1" as="geometry">
+            <mxPoint x="-52" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1MHRGC9YV3HJqHp84CS-4" value="Backend Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q1MHRGC9YV3HJqHp84CS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.404;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q1MHRGC9YV3HJqHp84CS-9" target="q1MHRGC9YV3HJqHp84CS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q1MHRGC9YV3HJqHp84CS-25" value="Valid / invalid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1MHRGC9YV3HJqHp84CS-23">
+          <mxGeometry x="-0.4398" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1MHRGC9YV3HJqHp84CS-9" value="Authentication System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q1MHRGC9YV3HJqHp84CS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.603;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q1MHRGC9YV3HJqHp84CS-10" target="q1MHRGC9YV3HJqHp84CS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q1MHRGC9YV3HJqHp84CS-22" value="Potential identification of plant&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1MHRGC9YV3HJqHp84CS-21">
+          <mxGeometry x="-0.1008" y="-1" relative="1" as="geometry">
+            <mxPoint x="34" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1MHRGC9YV3HJqHp84CS-10" value="API and Image Classification System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

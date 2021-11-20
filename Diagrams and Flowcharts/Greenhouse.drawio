@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2021-11-20T17:19:33.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.5.8" etag="jZEC_ZDjyHTjO8jR0ICY" type="github"><diagram id="yGBxFyJ6JFREp5-uIoZN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-20T17:28:21.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="nkwGfPkcqUMXEu-K4k4x" version="15.5.8" type="github">
+  <diagram id="yGBxFyJ6JFREp5-uIoZN" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RVOdMzKYM8jQru7Nh7Ll-1" value="Greenhouse React Component UML Diagram - IBCS IA - Finn Lestrange" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="770" width="540" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOdMzKYM8jQru7Nh7Ll-2" value="&amp;lt;&amp;lt;greenhouse.js&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Greenhouse&lt;/b&gt;&lt;br&gt;{abstract}" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="80" width="710" height="263" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOdMzKYM8jQru7Nh7Ll-3" value="attributes / props" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RVOdMzKYM8jQru7Nh7Ll-2">
+          <mxGeometry y="55" width="710" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOdMzKYM8jQru7Nh7Ll-4" value="greenhouse-comp.js" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RVOdMzKYM8jQru7Nh7Ll-2">
+          <mxGeometry y="75" width="710" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOdMzKYM8jQru7Nh7Ll-5" value="FirebaseObject (contains userID)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#808080;" vertex="1" parent="RVOdMzKYM8jQru7Nh7Ll-2">
+          <mxGeometry y="95" width="710" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOdMzKYM8jQru7Nh7Ll-10" value="main.css" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#808080;" vertex="1" parent="RVOdMzKYM8jQru7Nh7Ll-2">
+          <mxGeometry y="115" width="710" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOdMzKYM8jQru7Nh7Ll-11" value="authenticated?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RVOdMzKYM8jQru7Nh7Ll-2">
+          <mxGeometry y="135" width="710" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOdMzKYM8jQru7Nh7Ll-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="RVOdMzKYM8jQru7Nh7Ll-2">
+          <mxGeometry y="155" width="710" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOdMzKYM8jQru7Nh7Ll-8" value="operations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RVOdMzKYM8jQru7Nh7Ll-2">
+          <mxGeometry y="163" width="710" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOdMzKYM8jQru7Nh7Ll-9" value="Render-NonAuthenticated" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RVOdMzKYM8jQru7Nh7Ll-2">
+          <mxGeometry y="183" width="710" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOdMzKYM8jQru7Nh7Ll-14" value="Render-Authenticated - Calls greenhouse-comp.js, returns all plant components" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RVOdMzKYM8jQru7Nh7Ll-2">
+          <mxGeometry y="203" width="710" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOdMzKYM8jQru7Nh7Ll-15" value="Render-Update" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RVOdMzKYM8jQru7Nh7Ll-2">
+          <mxGeometry y="223" width="710" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOdMzKYM8jQru7Nh7Ll-16" value="Render-StateChange" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RVOdMzKYM8jQru7Nh7Ll-2">
+          <mxGeometry y="243" width="710" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOdMzKYM8jQru7Nh7Ll-17" value="&amp;lt;&amp;lt;greenhouse-comp.js&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Greenhouse Component&lt;/b&gt;&lt;br&gt;{abstract}" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="414" width="710" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOdMzKYM8jQru7Nh7Ll-18" value="attributes / props" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RVOdMzKYM8jQru7Nh7Ll-17">
+          <mxGeometry y="55" width="710" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOdMzKYM8jQru7Nh7Ll-20" value="FirebaseObject (contains userID)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#808080;" vertex="1" parent="RVOdMzKYM8jQru7Nh7Ll-17">
+          <mxGeometry y="75" width="710" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOdMzKYM8jQru7Nh7Ll-21" value="main.css" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#808080;" vertex="1" parent="RVOdMzKYM8jQru7Nh7Ll-17">
+          <mxGeometry y="95" width="710" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOdMzKYM8jQru7Nh7Ll-31" value="&lt;font color=&quot;#000000&quot;&gt;greenhouse-comp.css&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#808080;" vertex="1" parent="RVOdMzKYM8jQru7Nh7Ll-17">
+          <mxGeometry y="115" width="710" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOdMzKYM8jQru7Nh7Ll-30" value="&lt;font color=&quot;#000000&quot;&gt;LinkedList&amp;lt;LinkedList&amp;lt;JSON&amp;gt;&amp;gt; plants&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#808080;" vertex="1" parent="RVOdMzKYM8jQru7Nh7Ll-17">
+          <mxGeometry y="135" width="710" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOdMzKYM8jQru7Nh7Ll-24" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="RVOdMzKYM8jQru7Nh7Ll-17">
+          <mxGeometry y="155" width="710" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOdMzKYM8jQru7Nh7Ll-25" value="operations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RVOdMzKYM8jQru7Nh7Ll-17">
+          <mxGeometry y="163" width="710" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVOdMzKYM8jQru7Nh7Ll-29" value="Return-Component" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RVOdMzKYM8jQru7Nh7Ll-17">
+          <mxGeometry y="183" width="710" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

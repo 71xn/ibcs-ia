@@ -3,6 +3,8 @@
 > This repository is all of the work I have done for the IB Computer Science Internal Assessment
 > The front-end code is deployed from a separate repository that will be linked below.
 
+![](demo.png)
+
 <!--- Once deployed, add in build status for the front and back end --->
 
 ### 🧪 [Front-End Code](https://github.com/71xn/ibcs-ia-frontend)

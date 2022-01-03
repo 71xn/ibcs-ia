@@ -3,7 +3,7 @@
 > This repository is all of the work I have done for the IB Computer Science Internal Assessment
 > The front-end code is deployed from a separate repository that will be linked below.
 
-![](https://img.shields.io/badge/cloudflare-deployed-orange) ![](https://img.shields.io/badge/build-passing-brightgreen)a
+![](https://img.shields.io/badge/cloudflare-deployed-orange) ![](https://img.shields.io/badge/build-passing-brightgreen)
 
 ### 🔥 Live site demo: [https://digital-greenhouse.pages.dev/](https://digital-greenhouse.pages.dev/)
 

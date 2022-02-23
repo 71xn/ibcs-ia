@@ -5,7 +5,7 @@
 
 ![](https://img.shields.io/badge/cloudflare-deployed-orange) ![](https://img.shields.io/badge/build-passing-brightgreen)
 
-### 🔥 Live site demo: [https://digital-greenhouse.pages.dev/](https://digital-greenhouse.pages.dev/)
+### 🔥 Live site demo: [https://greenhouse.finnlestrange.tech/](https://greenhouse.finnlestrange.tech/)
 
 ![](demo.png)
 
